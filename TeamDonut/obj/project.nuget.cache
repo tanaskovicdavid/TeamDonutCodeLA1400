@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dw+8sKQ7rjmseVrVjf5F+mgtASoX2ccl7eEI2LquZNSw88KAF7EiMFNmYNBIm3faIuXjbtRDNA74ifmQblumTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valbe\\source\\repos\\TeamDonut\\TeamDonut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valbe\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\valbe\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
